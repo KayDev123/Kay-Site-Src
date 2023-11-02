@@ -1,0 +1,15 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+.home {
+    font-size: large;
+    cursor: pointer;
+}
+
+.home:hover {
+    font-size: xx-large;
+    cursor: pointer;
+}
